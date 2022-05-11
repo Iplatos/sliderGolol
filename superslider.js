@@ -1,16 +1,19 @@
 var slider1={
     imagesUrls: [],
+     currentImageIndex : 0,
      showPrevBtn:  null,
      showNextBtn : null,
      slideImage : null,
-     currentImageIndex : 0,
+    
 
-start:function () {
+start:function (el) {
 var that = this;
 
-this.showPrevBtn = document.querySelector(".show-prev-btn");
-this.showNextBtn = document.querySelector(".show-next-btn");
-this.slideImage = document.querySelector(".slide-img" );
+
+
+this.showPrevBtn = el.querySelector(".show-prev-btn");
+this.showNextBtn = el.querySelector(".show-next-btn");
+this.slideImage = el.querySelector(".slide-img" );
 
      this.showPrevBtn.addEventListener("click", function (e) {
          that.onShowPrevBtnClick(e);
