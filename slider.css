@@ -1,0 +1,18 @@
+.itk-slider{
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+.itk-slider .slide-img{
+ width: 70%;
+  height: 250px;
+}
+button {
+    width: 50px;
+    height: 30px;
+
+}
+body{
+    background-image: url(https://muztext.com/i/3284751796693925347.jpg);
+    background-size: 100% ;
+}
