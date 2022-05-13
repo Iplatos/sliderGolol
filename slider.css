@@ -16,3 +16,12 @@ body{
     background-image: url(https://muztext.com/i/3284751796693925347.jpg);
     background-size: 100% ;
 }
+.SliderCont{
+    text-align: center;
+}
+.contImgclass{
+    width: 200px ;
+    height: auto;
+    border-radius: 15px;
+
+}
