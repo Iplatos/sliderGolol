@@ -30,6 +30,8 @@ body{
     height: 400px;
 }
 .gogol{
+    margin: 0 auto;
+    text-align: center;
     width: 200px;
     height: 200px;
     background-color: aqua;
