@@ -57,3 +57,7 @@ this.slideImage = el.querySelector(".slide-img" );
          }
 },
 }
+
+
+
+    

@@ -20,8 +20,18 @@ body{
     text-align: center;
 }
 .contImgclass{
-    width: 200px ;
+    width: 300px ;
     height: auto;
     border-radius: 15px;
 
+}
+.SliderCont{
+    width: 500px;
+    height: 400px;
+}
+.gogol{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    color: black;
 }
