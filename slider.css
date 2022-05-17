@@ -43,3 +43,14 @@ body{
     background-color: black;
 
 }
+.gogolArt{
+    width: 200px;
+}
+.news {
+    text-align: center;
+}
+.table {
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
