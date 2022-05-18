@@ -54,3 +54,7 @@ body{
     margin: 0 auto;
     text-align: center;
 }
+.gogol:hover{
+    background-image: url(https://avatarko.ru/img/kartinka/1/avatarko_anonim.jpg);
+    color: white;
+}
