@@ -58,3 +58,18 @@ body{
     background-image: url(https://avatarko.ru/img/kartinka/1/avatarko_anonim.jpg);
     color: white;
 }
+#footer{
+    margin: 0 auto;
+    text-align: justify;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#footer:hover{
+    font-size: 26;
+    color: brown;
+     
+}
+.contImgclass:hover{
+    width: 700px ;
+    height: auto;
+    border-radius: 25px;
+}
