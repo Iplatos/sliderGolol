@@ -26,8 +26,9 @@ body{
 
 }
 .SliderCont{
-    width: 500px;
-    height: 400px;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
 }
 .gogol{
     margin: 0 auto;
